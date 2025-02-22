@@ -1,5 +1,6 @@
 {
 	"author": "Ananth Pai",
+	"description": "This is the first project of mine working with JSON, GitHub and Replit",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
